@@ -1,0 +1,1 @@
+delete Students where Students.sid=53650
